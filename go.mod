@@ -1,4 +1,4 @@
-module github.com/paralin/go-steam
+module github.com/krolchonok/go-steam
 
 go 1.21
 
